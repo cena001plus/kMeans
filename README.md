@@ -1,2 +1,5 @@
 # kMeans
-kMeans  ,  c
+
+C
+
+a simple example about kMeans
